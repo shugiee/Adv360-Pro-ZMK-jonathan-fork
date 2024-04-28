@@ -78,11 +78,11 @@
 
         layer_4 {
             bindings = <
-&trans  &trans          &trans      &trans            &trans      &trans             &trans                                                                        &trans  &trans           &trans                &trans                &trans     &trans  &trans
-&trans  &kp C_PREVIOUS  &kp C_NEXT  &kp C_PLAY_PAUSE  &kp K_MUTE  &kp C_VOLUME_DOWN  &trans                                                                        &trans  &kp C_VOLUME_UP  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans     &trans  &trans
-&trans  &trans          &trans      &trans            &trans      &trans             &trans          &trans            &trans              &trans  &trans          &trans  &kp LEFT         &kp DOWN              &kp UP                &kp RIGHT  &trans  &trans
-&trans  &trans          &trans      &trans            &trans      &trans                                               &trans              &trans                          &trans           &trans                &trans                &trans     &trans  &trans
-&trans  &trans          &trans      &trans            &trans                                 &trans  &kp LEFT_COMMAND  &kp LEFT_CONTROL    &trans  &trans  &trans                           &trans                &trans                &trans     &trans  &trans
+&trans  &trans          &trans      &trans            &trans      &trans             &trans                                                                       &trans  &trans           &trans                &trans                &trans     &trans  &trans
+&trans  &kp C_PREVIOUS  &kp C_NEXT  &kp C_PLAY_PAUSE  &kp K_MUTE  &kp C_VOLUME_DOWN  &trans                                                                       &trans  &kp C_VOLUME_UP  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans     &trans  &trans
+&trans  &trans          &trans      &trans            &trans      &trans             &trans          &trans            &trans              &trans  &trans         &trans  &kp LEFT         &kp DOWN              &kp UP                &kp RIGHT  &trans  &trans
+&trans  &trans          &trans      &trans            &trans      &trans                                               &trans              &trans                         &trans           &trans                &trans                &trans     &trans  &trans
+&trans  &trans          &trans      &trans            &trans                                 &trans  &kp LEFT_COMMAND  &kp LEFT_CONTROL    &tog 4  &trans  &mo 4                           &trans                &trans                &trans     &trans  &trans
             >;
         };
     };
