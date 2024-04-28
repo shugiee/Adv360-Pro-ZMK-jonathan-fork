@@ -1,3 +1,9 @@
+# shugie's additions
+- used online mapper at https://nickcoutsos.github.io/keymap-editor/
+- codes explained at https://zmk.dev/docs/codes
+
+
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
